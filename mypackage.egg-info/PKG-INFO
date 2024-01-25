@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: mypackage
+Version: 0.0.1
+Summary: Aplicación Python con MySQL
+Home-page: https://github.com/Luis89Flores/CRUD_Python_MySQL
+Author: Luis Flores
+Author-email: luis.flores@gmail.com
+License: MIT
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: Natural Language :: English
+Classifier: License :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+License-File: LICENSE
+
+# CRUD_Python_MySQL
+Este repositorio es usado para aprender a conectar Python con MySQL, como empaquetar mÃ³dulos Python y instalar paquetes Python desde Github
+
+
