@@ -11,7 +11,7 @@ if __name__ == "__main__":
           long_description= open("README.md").read(),
           packages= find_packages(),
           zip_safe = False,
-          install_requires = ["tkinter","mysql-connector"],
+          install_requires = ["mysql-connector"],
           classifiers=[
               "Development Status :: 5 - Production/Stable",
               "Intended Audience :: Developers",
