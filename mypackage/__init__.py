@@ -1,0 +1,5 @@
+__title__ = "mypackage"
+__version__ = "0.0.1"
+__author__ = "Luis Flores"
+__email__ = "luis.flores@gmail.com"
+__description__ = "Aplicación Python con MySQL"
